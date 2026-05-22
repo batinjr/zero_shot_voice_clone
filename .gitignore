@@ -1,0 +1,9 @@
+# Python sanal ortamını ve önbellekleri gizle
+bot_env/
+__pycache__/
+
+# Büyük yapay zeka model dosyalarını gizle
+*.pth
+*.bin
+*.onnx
+
